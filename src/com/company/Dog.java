@@ -2,8 +2,10 @@ package com.company;
 
 public class Dog extends Animal {
 
-    public void sounds()
+    public String sounds(String dogSound)
     {
-        System.out.println("Dog barks");
+        System.out.println("Dog " + dogSound);
+        return dogSound;
+
     }
 }

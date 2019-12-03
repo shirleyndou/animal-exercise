@@ -7,7 +7,7 @@ public class Animal {
 
     void setName(String name){
 
-        if(name == "Stormy" || name=="Rax")
+        if(name == "Stormy" || name =="Rax")
         {
             this.name=name;
         }
@@ -16,13 +16,16 @@ public class Animal {
     }
 
 
-    void eat()
+   public String eat(String Food)
     {
-        System.out.println(name + " eats");
+        System.out.println(name + " eats " + Food);
+        return Food;
+       // System.out.println(name + " eats");
     }
 
-    public void sounds()
+    public String sounds()
     {
         System.out.println("sounds... ");
+        return null;
     }
 }

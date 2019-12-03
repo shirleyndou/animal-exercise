@@ -7,15 +7,15 @@ public class Main {
 
         Dog dog = new Dog();
         dog.setName("Rax");
-        dog.eat();
-        dog.sounds();
+        dog.eat("food");
+        dog.sounds("Barks");
 
         Cat cat = new Cat();
         cat.setName("Stormy");
-        cat.eat();
-        cat.sounds();
+        cat.eat("Food");
+        cat.sounds("Meows");
 
-        System.out.println("------------------");
+        System.out.println("");
 
         Home home = new Home();
         //Dog dog1 = new Dog();
@@ -25,7 +25,7 @@ public class Main {
         home.adoptPet(dog);
         home.makeAllSounds();
 
-        System.out.println("------------------");
+        System.out.println("");
         home.adoptPet(cat);
         home.makeAllSounds();
 
