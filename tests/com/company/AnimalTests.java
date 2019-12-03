@@ -19,6 +19,8 @@ public class AnimalTests{
         Animal test2 = new Animal();
         String eatResult = test2.eat("Food");
         assertEquals("Food", eatResult);
+        //assertEquals("food","FOOD".toLowerCase()); //BONUS assertion
+        assertTrue("food".equalsIgnoreCase("Food"));//BONUS assertion
     }
 
     @Test
@@ -35,5 +37,7 @@ public class AnimalTests{
         Animal test4 = new Animal();
         String eatResult = test4 .eat("Food");
         assertEquals("Food", eatResult);
+
+        assertEquals("food","Food".toLowerCase()); //Bonus assertion
     }
 }

@@ -2,20 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2604cae-8352-4f50-b29b-15ee7f557e9b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/com/company/AnimalTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/animal_exercise.iml" beforeDir="false" afterPath="$PROJECT_DIR$/animal_exercise.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/animal_exercise/com/company/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/animal_exercise/com/company/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/animal_exercise/com/company/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/animal_exercise/com/company/Cat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/animal_exercise/com/company/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/animal_exercise/com/company/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/animal_exercise/com/company/Home.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/animal_exercise/com/company/Home.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/animal_exercise/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/animal_exercise/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/animal_exercise/com/company/AnimalTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/animal_exercise/com/company/AnimalTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/com/company/AnimalTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests/com/company/AnimalTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,28 +46,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="JUnit.AnimalTests.TestCatEats">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="animal_exercise" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AnimalTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="animal_exercise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.company" />
-      <option name="MAIN_CLASS_NAME" value="com.company.AnimalTests" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -115,6 +89,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="AnimalTests.TestDogEats" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="animal_exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.AnimalTests" />
+      <option name="METHOD_NAME" value="TestDogEats" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="AnimalTests.TestDogSound" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="animal_exercise" />
       <extension name="coverage">
@@ -133,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.AnimalTests.TestCatEats" />
+        <item itemvalue="JUnit.AnimalTests.TestDogEats" />
         <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.AnimalTests.TestCatSound" />
-        <item itemvalue="JUnit.AnimalTests.TestCatEats" />
         <item itemvalue="JUnit.AnimalTests.TestDogSound" />
-        <item itemvalue="JUnit.AnimalTests" />
       </list>
     </recent_temporary>
   </component>
@@ -188,22 +178,22 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="557" y="288" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/67.27.1299.741@67.27.1299.741" timestamp="1574950501948" />
-    <state width="1253" height="174" key="GridCell.Tab.0.bottom" timestamp="1575366895229">
+    <state width="1253" height="174" key="GridCell.Tab.0.bottom" timestamp="1575367961088">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="174" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1575366895229" />
-    <state width="1253" height="174" key="GridCell.Tab.0.center" timestamp="1575366895229">
+    <state width="1253" height="174" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1575367961088" />
+    <state width="1253" height="174" key="GridCell.Tab.0.center" timestamp="1575367961087">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="174" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1575366895229" />
-    <state width="1253" height="174" key="GridCell.Tab.0.left" timestamp="1575366895228">
+    <state width="1253" height="174" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1575367961087" />
+    <state width="1253" height="174" key="GridCell.Tab.0.left" timestamp="1575367961087">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="174" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1575366895228" />
-    <state width="1253" height="174" key="GridCell.Tab.0.right" timestamp="1575366895229">
+    <state width="1253" height="174" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1575367961087" />
+    <state width="1253" height="174" key="GridCell.Tab.0.right" timestamp="1575367961087">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="174" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1575366895229" />
+    <state width="1253" height="174" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1575367961087" />
     <state x="372" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1574927300979">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
