@@ -2,54 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2604cae-8352-4f50-b29b-15ee7f557e9b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Animal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Cat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Dog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Home.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/test/AnimalTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/AnimalTest.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/test-results/test/TEST-AnimalTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Home.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/AnimalTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/animal_exercise.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/animal_exercise/com/company/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/animal_exercise/com/company/Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/animal_exercise/com/company/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/animal_exercise/com/company/Home.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/animal_exercise/com/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/animal_exercise/META-INF/animal_exercise.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/animal_exercise/com/company/AnimalTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Cat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Home.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/com/company/AnimalTests.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -77,6 +41,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
